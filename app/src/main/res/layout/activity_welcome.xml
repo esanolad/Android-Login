@@ -7,6 +7,7 @@
     tools:context=".Welcome">
 
     <TextView
+        android:id="@+id/lbl_welcome_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
